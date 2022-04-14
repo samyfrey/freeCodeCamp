@@ -29,6 +29,7 @@ arr2.push(["happy", "joy"]);
 
 Push `["dog", 3]` onto the end of the `myArray` variable.
 
+arr1.push(["dog", 3])
 # --hints--
 
 `myArray` should now equal `[["John", 23], ["cat", 2], ["dog", 3]]`.
